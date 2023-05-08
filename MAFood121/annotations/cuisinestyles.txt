@@ -1,0 +1,11 @@
+sty_american
+sty_japanese
+sty_italian
+sty_greece
+sty_turkish
+sty_chinese
+sty_mexican
+sty_indian
+sty_thai
+sty_vietnamese
+sty_french
